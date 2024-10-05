@@ -1,0 +1,1 @@
+ONNX Conversion of BERT NER Model found on HuggingFace, using BERT Tokenizer Package in C# to be able to consume the model. ONNX Model not included due to file size.
